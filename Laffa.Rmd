@@ -1,0 +1,15 @@
+---
+title: "Laffa recept"
+author: "Marcell Puski"
+date: '2021 03 30 '
+output: html_document
+---
+
+
+# Laffa recept
+
+## Leírás
+
+A laffa egy közel-keleti száraz serpenyőben megsült kovászos lepény, melyet apróra vágott sült hússal, zöldségekkel, vagy éppen sajttal tölthetünk meg egy kiadós vacsorához.
+
+## Hozzávalók
